@@ -1,1 +1,3 @@
-# ex_6
+# ex_6[text](README.md) ![text](<proof/‏‏צילום מסך (53).png>) ![text](<proof/‏‏צילום מסך (54).png>) ![text](<proof/‏‏צילום מסך (56).png>) ![text](<proof/‏‏צילום מסך (55).png>) ![text](<proof/‏‏צילום מסך (58).png>) ![text](<proof/‏‏צילום מסך (57).png>) ![text](<proof/‏‏צילום מסך (59).png>) ![text](<proof/‏‏צילום מסך (60).png>) ![text](<proof/‏‏צילום מסך (61).png>) ![text](<proof/‏‏צילום מסך (62).png>) ![text](<proof/‏‏צילום מסך (63).png>) ![text](<proof/‏‏צילום מסך (64).png>) ![text](<proof/‏‏צילום מסך (65).png>) ![text](<proof/‏‏צילום מסך (67).png>) ![text](<proof/‏‏צילום מסך (66).png>) ![text](<proof/‏‏צילום מסך (68).png>) ![text](<proof/צילום מסך (70).jpg>) ![text](<proof/‏‏צילום מסך (69).png>)
+
+ex6 link : https://github.com/tomerpc/ex_6.git 
